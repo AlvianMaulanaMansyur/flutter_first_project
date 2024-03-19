@@ -1,6 +1,6 @@
 # testawal
 
-A new Flutter project.
+sandbox to try flutter, try to make anythings
 
 ## Getting Started
 
